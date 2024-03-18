@@ -15,7 +15,7 @@
 ### Space Dodge é um jogo 2d simples feito inteiramente com Java, com o único objeto: **Desvie de tudo**.
 
 
-<img src="https://github.com/renanpmatos/space-dodge/blob/main/src/resources/normal-stage.png" alt="normal-stage"/>
+<img src="https://github.com/renanpmatos/space-dodge/blob/main/src/resources/normal-stage.png" alt="normal-stage" width=80%/>
 
 #### Ao longo das fases, você acumula pontos e pode usá-los para comprar aprimoramentos na Loja.
 
