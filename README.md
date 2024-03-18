@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">SPACE DOGE</h1>
-  <img src="https://github.com/renanpmatos/space-dodge/src/com/resources/initial-menu.jpg" alt="initial-menu"/>
+  <img src="https://github.com/renanpmatos/space-dodge/blob/main/src/resources/initial-menu.png" alt="initial-menu"/>
 </div>
 
 ## 📋 <a name="table">Conteúdos</a>
@@ -12,11 +12,16 @@
 
 ## <a name="introduction">👋 Introdução</a>
 
-Space Dodge é um jogo 2d simples feito inteiramente com Java, com o único objeto: **Desvie de tudo**.
+### Space Dodge é um jogo 2d simples feito inteiramente com Java, com o único objeto: **Desvie de tudo**.
 
-Ao longo das fases, você acumula pontos e pode usá-los para comprar aprimoramentos na Loja.
 
-Com dois modos de jogo, desvie de diversos inimigos para sobreviver nas fases e enfrentar o **Boss**
+<img src="https://github.com/renanpmatos/space-dodge/blob/main/src/resources/normal-stage.png" alt="normal-stage"/>
+
+#### Ao longo das fases, você acumula pontos e pode usá-los para comprar aprimoramentos na Loja.
+
+#### Com dois modos de jogo, desvie de diversos inimigos para sobreviver nas fases e enfrentar o **Boss**
+
+<img src="https://github.com/renanpmatos/space-dodge/blob/main/src/resources/boss-stage.png" alt="boss-stage" width=80%/>
 
 Feito como um projeto para estudo e ainda está sendo aprimorado (aos poucos 😅)
 
